@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **Html, CSS, Python, Data Analytics, Power BI Python, SQL**
 
-- 🤝 I’m looking collaboration with [https://github.com/Sky121122](https://github.com/Sky121122)
-
+- 🤝 I’m looking collaboration with You
 - 💬 Ask me about **Data Analytics, Python, Excel**
 
 <h3 align="left">Connect with me:</h3>
