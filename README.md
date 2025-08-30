@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sandhya Sahani...</h1>
-<h3 align="center">I am a passionate and detail-oriented Data Analyst with a strong foundation in extracting meaningful insights from complex datasets. With a blend of analytical thinking and technical proficiency, I specialize in transforming raw data into actionable strategies that support decision-making and business growth................................My skill set includes data cleaning, data visualization, statistical analysis, and predictive modeling. I am proficient in tools like Excel, Power BI, and Tableau, and well-versed in programming languages such as:</h3>
+<h3 align="center">I’m a Data Analyst and Aspiring Data Scientist passionate about uncovering insights from data and building intelligent solutions.
+With a strong foundation in analytics and programming, I specialize in transforming raw data into meaningful stories and predictive models that support decision-making and business growth. 🚀................................My skill set includes data cleaning, data visualization, statistical analysis, and predictive modeling. I am proficient in Python ,Excel, Power BI, and well-versed in Machine Learning ,Deep Learning,programming languages such as:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyasahani190&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyasahani190" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhyasahani190" alt="sandhyasahani190" /></a> </p>
 
-- 🔭 I’m currently working on **Data analytics**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Html, CSS, Python, Data Analytics, Power BI Python, SQL**
+- 🌱 I’m currently learning **Python, Data Analytics, Power BI , SQL,Pandas,Numpy,Seaborn,Matplotlib,ML,Deep Learning**
 
 - 🤝 I’m looking collaboration with You
-- 💬 Ask me about **Data Analytics, Python, Excel**
+- 💬 Ask me about **Data Analytics, Python, Machine learning,Deep learning,AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
